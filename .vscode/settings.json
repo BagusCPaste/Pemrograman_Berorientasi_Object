@@ -1,0 +1,8 @@
+{
+    "code-runner.runInTerminal": true,
+    "java.project.sourcePaths": [
+        "TUGAS1",
+        ""
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
