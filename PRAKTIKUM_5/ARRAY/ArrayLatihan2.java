@@ -4,18 +4,18 @@ import java.util.Scanner;
 
 class Mahasiswa {
        private Scanner input = new Scanner(System.in);
-       String nim,nama, predikat;
-       char nHuruf;
-       float nilaiTugas, nilaiUts, nilaiUas;
-       float PnilaiTugas, PnilaiUts, PnilaiUas, nilaiAkhir;
+              String nim,nama, predikat;
+              char nHuruf;
+              float nilaiTugas, nilaiUts, nilaiUas;
+              float PnilaiTugas, PnilaiUts, PnilaiUas, nilaiAkhir;
 
        public Mahasiswa(String nim, String nama, float nilaiTugas, float nilaiUts, 
        float nilaiUas) {
-       this.nim = nim;
-       this.nama = nama;
-       this.nilaiTugas = nilaiTugas;
-       this.nilaiUts = nilaiUts;
-       this.nilaiUas = nilaiUas;
+              this.nim = nim;
+              this.nama = nama;
+              this.nilaiTugas = nilaiTugas;
+              this.nilaiUts = nilaiUts;
+              this.nilaiUas = nilaiUas;
        }
 
        public Mahasiswa(){
@@ -97,13 +97,9 @@ class Mahasiswa {
               nilaiUts + "\t" + nilaiUas + "\t" + nilaiAkhir + "\t" + nHuruf + "\t" +
               predikat);
        }
-
-
 }
 
-
 public class ArrayLatihan2 {
-
        public static void main(String[] args) {
               Scanner input = new Scanner(System.in);
 
@@ -131,5 +127,4 @@ public class ArrayLatihan2 {
               }  
               input.close();
        }
-    
 }

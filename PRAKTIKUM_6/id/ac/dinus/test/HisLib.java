@@ -8,6 +8,5 @@ public class HisLib {
               Mylib mylib = new Mylib();
               mylib.cetak();
               System.out.println(" his Lib Cetak().....");
-       }
-       
+       } 
 }

@@ -13,6 +13,4 @@ public class Karyawan {
               System.out.print("Pilihan [1-2] = ");
               sts_peg = sc.nextInt();
        }
-               
-       
 }

@@ -47,7 +47,7 @@ public class ArrayDemo {
                             }
                             case 6 -> shouldBreak = true;
                             default -> System.out.println("\nInputan Tidak sesuai!\n");
-                     }scanner.close();
+                     }
 
                      if (shouldBreak)
                      break;

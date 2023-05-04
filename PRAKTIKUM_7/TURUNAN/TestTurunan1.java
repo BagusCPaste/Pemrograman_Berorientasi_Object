@@ -2,7 +2,7 @@ package PRAKTIKUM_7.TURUNAN;
 
 class Satu {
        Satu() {
-              System.out.println("Satu.....");
+              System.out.println("Satu....."+ "Kiriman untuk mbah buyut......");
        }
 }
 

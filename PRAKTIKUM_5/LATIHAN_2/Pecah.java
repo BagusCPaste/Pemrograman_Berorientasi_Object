@@ -16,7 +16,7 @@ public class Pecah {
                             System.out.println("");
                      }
               }
-              System.out.println("_____________________");
+              System.out.println("\n_____________________");
               System.out.print(" Dipecah : ");
               pecah = input.nextInt();
               for (int j = 1; j <= bil; j++) {

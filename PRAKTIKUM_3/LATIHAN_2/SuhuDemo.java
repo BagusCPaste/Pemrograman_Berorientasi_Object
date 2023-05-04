@@ -6,9 +6,5 @@ public class SuhuDemo {
 
         testsuhu.celciusToDe(15);
         testsuhu.celciusToDe(0.12f);
-        
     }
-
-    
-    
 }

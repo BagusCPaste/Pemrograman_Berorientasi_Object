@@ -15,5 +15,4 @@ public class Akseslib {
               HisLib hisLib = new HisLib();
               hisLib.cetak3();
        }
-       
 }

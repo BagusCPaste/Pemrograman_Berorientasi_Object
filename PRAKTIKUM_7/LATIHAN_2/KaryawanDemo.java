@@ -1,5 +1,8 @@
 package PRAKTIKUM_7.LATIHAN_2;
+import java.io.IOException;
 import java.text.DecimalFormat;
+
+
 public class KaryawanDemo {
        public static void main(String[] args) throws IOException {
 
