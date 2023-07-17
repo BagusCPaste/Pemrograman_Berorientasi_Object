@@ -1,4 +1,4 @@
-package PRAKTIKUM_3.LATIHAN_1;
+package PRAKTIKUM_8.LATIHAN_1;
 
 public class matematika
 {
@@ -31,25 +31,24 @@ public class matematika
         return a/b;
     }
 
-    double pertambahandouble(Double a, Double b)
+    double pertambahandouble(Double a, Double b, Double c)
     {
-        return a+b;
+        return a+b+c;
     }
 
-    double pengurangandouble(double a, double b)
+    double pengurangandouble(double a, double b, Double c)
     {
-        return a-b;
+        return a-b-c;
     }
 
-    double perkaliandouble(double a, double b)
+    double perkaliandouble(double a, double b, Double c)
     {
-        return a*b;
+        return a*b*c;
     }
     
-    double pembagiandouble(double a, double b)
+    double pembagiandouble(double a, double b, Double c)
     {
-        return a/b;
+        return a/b/c;
     }
 
-  
 }
